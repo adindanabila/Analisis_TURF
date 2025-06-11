@@ -4,7 +4,7 @@ Menentukan Penempatan Optimal Produk Impulse Buying Berdasarkan Preferensi Pengu
 ---
 ## Latar Belakang
 
-Supermarket XYZ memiliki kandidat 20 produk impulsif, namun hanya ada ruang untuk menampilkan maksimal 6 produk di rak kasir. Tujuan dari analisis ini adalah:
+Supermarket XYZ memiliki kandidat 20 produk impulsif, namun mereka memiliki kendala yakni keterbatasan ruang di sekitar area kasir, sehingga hanya beberapa produk saja yang dapat dijadikan display. Tujuan dari analisis ini adalah:
 
 - Menentukan kombinasi produk yang mampu menjangkau minimal 80% pelanggan
 - Mengukur efektivitas strategi penempatan produk berdasarkan **segmentasi pelanggan** (misalnya berdasarkan gender dan usia)
@@ -21,18 +21,6 @@ Supermarket XYZ memiliki kandidat 20 produk impulsif, namun hanya ada ruang untu
 
 ## Hasil Analisis
 
-### Segmen: Perempuan Usia <25 Tahun
-- **Target Reach**: 80%
-- **Total Reach yang Dicapai**: 86.2%
-- **Jumlah Produk Optimal**: 4
-- **Produk Terpilih**: Produk R, I, F, M
-
- **Visualisasi:**
- 
-![Screenshot 2025-05-30 224843](https://github.com/user-attachments/assets/9228d0fd-4af5-4864-a19f-0e4be8e0879a)
-
----
-
 ### Segmen: Semua Pelanggan
 - **Target Reach**: 80%
 - **Total Reach yang Dicapai**: 82.5%
@@ -43,21 +31,35 @@ Supermarket XYZ memiliki kandidat 20 produk impulsif, namun hanya ada ruang untu
  
 ![Screenshot 2025-05-30 225041](https://github.com/user-attachments/assets/764257b7-bbab-4d01-8e72-258928d0b76f)
 
+---
+
+### Segmen: Perempuan Usia <25 Tahun
+- **Target Reach**: 80%
+- **Total Reach yang Dicapai**: 86.2%
+- **Jumlah Produk Optimal**: 4
+- **Produk Terpilih**: Produk R, I, F, M
+
+ **Visualisasi:**
+ 
+![Screenshot 2025-05-30 224843](https://github.com/user-attachments/assets/9228d0fd-4af5-4864-a19f-0e4be8e0879a)
+
+Terdapat perbedaan hasil di mana ternyata dibutuhkan 6 produk impulsif untuk mencapai target dengan kategori **seluruh pelanggan** dengan capaian target sejauh 82,5%. Sedangkan untuk segmen khusus yakni pelanggan perempuan di bawah 25 tahun, dengan capaian target hingga 86,2% ternyata 4 produk saja sudah cukup untuk melampaui target. Ini menunjukkan bahwa strategi dapat menghasilkan efisiensi ruang sekaligus protensi penjualan yang lebih tinggi berdasarkan segmen pelanggan.
 
 ---
 
 ## Insight Strategis
 
-- Hanya dengan 4 produk, segmen muda perempuan bisa dijangkau secara efisien (>86%).
-- Dibutuhkan lebih banyak produk untuk menjangkau populasi umum.
-- Produk **R** dan **I** tampil konsisten di kedua segmen → ideal untuk penempatan permanen.
+- Penempatan produk alangkah baiknya jika disesuaikan dengan segmen target pelanggan 
+- Segmentasi khusus berdasarkan usia dan gender dinilai sangat membantu dalam penyusunan strategi display di area kasir agar tepat sasaran.
+- Produk R dapat menjadi produk maskot untuk segmen khusus karena memberikan impact paling besar. Produk ini cocok dijadikan produk utama dalam display kasir.
+- Dengan adanya ruang terbatas pada area kasir, mengetahui dan memahami preferensi pilihan tiap segmen dapat menghasilkan penyusunan produk impulsif yang lebih efisien dan memiliki impact yang lebih besar.
 - TURF membantu menghindari duplikasi preferensi dan meningkatkan efisiensi rak display.
 
 ---
 
 ## 📌 Kesimpulan
 
-TURF Analysis dapat membantu supermarket atau retailer lainnya dalam mengambil keputusan berbasis data untuk optimalisasi ruang promosi. Dengan pendekatan ini, strategi display bisa diarahkan pada **segmen pelanggan yang paling potensial** tanpa kehilangan efisiensi.
+Analisis TURF membantu supermarket dalam mengambil keputusan berbasis data untuk mengoptimalkan ruang promosi. Dengan pendekatan ini, strategi display bisa diarahkan pada **segmen pelanggan yang paling potensial** tanpa kehilangan efisiensi.
 
 ---
 
